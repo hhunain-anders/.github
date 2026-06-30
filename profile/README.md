@@ -20,12 +20,12 @@
 
 Track shared drivers across all DragonEye products. Update this table whenever a driver version changes.
 
-| Driver | Version | DEG0_1.3 | DEU5_2.1 | DEU5_4S | DEU5_5R | Last Updated |
-|--------|---------|-----------|-----------|---------|---------|--------------|
-| dragoneye_leds | — | — | — | — | — | — |
-| dragoneye_wifi | — | — | — | — | — | — |
-| STM32TouchController | — | — | — | — | — | — |
-| KeySampler | — | — | — | — | — | — |
+| Driver | Version | DEG0_1.3 | DEU5_2.1 | DEU5_4S | DEU5_5R |
+|--------|---------|-----------|-----------|---------|---------|
+| dragoneye_leds | — | — | — | — | — |
+| dragoneye_wifi | — | — | — | — | — |
+| STM32TouchController | — | — | — | — | — |
+| KeySampler | — | — | — | — | — |
 
 ---
 
